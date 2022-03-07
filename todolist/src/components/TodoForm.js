@@ -16,6 +16,7 @@ const handleSubmit = e => {
         text: input
     });
     
+    setInput('')
 };
 
   return (
